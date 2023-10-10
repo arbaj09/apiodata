@@ -4,9 +4,7 @@
   "description": "",
   "main": "App.js",
   "scripts": {
-    "start": "node App.js",
-    "build":"build"
-
+    "start": "node App.js"
   },
   "keywords": [],
   "author": "",
